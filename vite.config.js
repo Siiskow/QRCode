@@ -7,14 +7,7 @@ import adapter from '@sveltejs/adapter-netlify';
 export default defineConfig({
   plugins: [svelte()],
   kit :{
-    target : '#svelte',
-    adapter: adapter(),
-    prerender : {
-      crawl : true,
-      enabled:true,
-      onError:'continue',
-      pages:['*'],
-    }
+    adapter: adapter()
   }
 })
 
