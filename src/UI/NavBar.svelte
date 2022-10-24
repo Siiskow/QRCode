@@ -122,15 +122,6 @@
     .nav__close:hover{
         color:var(--first-color-alt);
     }
-    button{
-        background: none;
-        color: inherit;
-        border: none;
-        padding: 0;
-        font: inherit;
-        cursor: pointer;
-        outline: inherit;
-    }
     .nav__btns{
         display: flex;
         align-items: center;
@@ -148,6 +139,7 @@
 
 <header bind:this={headerTag}>
     <nav class="nav container">
+        <!-- svelte-ignore a11y-invalid-attribute -->
         <a href="#" class="nav__logo"><img class="gdsc-logo" src="https://cdn-images-1.medium.com/max/1200/1*vZVM7utCuRiZ6-HDsNeYUA.png" alt=""></a>
         {#if showMenu}
         <div class="nav__menu" id="nav-menu">

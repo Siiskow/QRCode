@@ -26,6 +26,7 @@
     }
 </style>
 
+<!-- svelte-ignore a11y-invalid-attribute -->
 <a href="#" class="{classtype} scrollup">
     <i class="uil uil-arrow-up scrollup__icon"></i>
 </a>
