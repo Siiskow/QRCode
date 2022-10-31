@@ -118,7 +118,7 @@
 
             <div class="contact__content">
                 <label for="" class="contact__label">Email</label>
-                <input type="email" pattern="[^@\s]+@[^@\s]+\.[^@\s]+" class="contact__input" name="emailAddress" autocomplete="off" required >
+                <input type="email" class="contact__input" name="emailAddress" autocomplete="off" required >
             </div>
             <div class="contact__content">
                 <label for="" class="contact__label">Brief description about you !</label>
