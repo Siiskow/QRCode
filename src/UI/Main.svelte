@@ -120,7 +120,7 @@
                     <h3 class="home__subtitle">Google Developers Students Club </h3>
                     <p class="home__description">A community where you can apply new learnings to build great solutions for local problems. Advance your skills, career, and network. Give back to your community by helping others learn.</p>
                     <a href="#contact" class="button button--flex">
-                        Contact Us <i class="uil uil-message button__icon"></i>
+                        Register in our event <i class="uil uil-message button__icon"></i>
                     </a>
                 </div>
             </div>

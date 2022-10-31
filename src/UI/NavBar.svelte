@@ -155,23 +155,23 @@
                     </a>
                 </li>
                 <li class="nav__item">
-                    <a href="#skills" class="nav__link" on:click={closeMenu}>
+                    <a href="#talks" class="nav__link" on:click={closeMenu}>
                         <i class="uil uil-file-alt nav__icon"></i> Talks
                     </a>
                 </li>
                 <li class="nav__item">
-                    <a href="#services" class="nav__link" on:click={closeMenu}>
+                    <a href="#workshops" class="nav__link" on:click={closeMenu}>
                         <i class="uil uil-briefcase-alt nav__icon"></i> Workshops
                     </a>
                 </li>
                 <li class="nav__item">
-                    <a href="#qualification" class="nav__link" on:click={closeMenu}>
+                    <a href="#agenda" class="nav__link" on:click={closeMenu}>
                         <i class="uil uil-scenery nav__icon"></i> Agenda
                     </a>
                 </li>
                 <li class="nav__item">
                     <a href="#contact" class="nav__link" on:click={closeMenu}>
-                        <i class="uil uil-message nav__icon"></i> Contact Us
+                        <i class="uil uil-message nav__icon"></i> Registration
                     </a>
                 </li>
             </ul>

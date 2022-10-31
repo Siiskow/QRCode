@@ -82,11 +82,11 @@
                 </li>
 
                 <li>
-                    <a href="#qualification" class="footer__link">Agenda</a>
+                    <a href="#agenda" class="footer__link">Agenda</a>
                 </li>
 
                 <li>
-                    <a href="#contact" class="footer__link">ContactUs</a>
+                    <a href="#contact" class="footer__link">Register</a>
                 </li>
             </ul>
 

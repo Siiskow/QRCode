@@ -1,3 +1,12 @@
+<script>
+    let form;
+
+    function onSubmit() {
+        setTimeout(function(){window.location.reload()},10);
+    }
+
+</script>
+
 <style>
     .contact__container{
         row-gap: 3rem;
@@ -39,6 +48,19 @@
         outline:none;
         padding: .25rem .5rem .5rem 0;
     }
+    button{
+        border: none;
+        padding: 0;
+        font: inherit;
+        cursor: pointer;
+        outline: inherit;
+        background-color: var(--first-color);
+        color: #fff;
+        padding: 1rem;
+        border-radius: .5rem;
+        font-weight: var(--font-medium);
+        text-align: left;
+    }
     @media screen and (min-width : 568px){
         .contact__container{
             grid-template-columns: repeat(2,1fr);
@@ -47,8 +69,8 @@
 </style>
 
 <section class="contact section" id="contact">
-    <h2 class="section__title">Contact Us</h2>
-    <span class="section__subtitle">Get in Touch</span>
+    <h2 class="section__title">Registration</h2>
+    <span class="section__subtitle">Register in QR Hunt</span>
 
     <div class="contact__container container grid">
         <div>
@@ -82,32 +104,30 @@
 
             </div>
         </div>
-        <form action="" class="contact__form grid">
+        <form on:submit={onSubmit} bind:this={form} target="_blank" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSdhKXD6aJEXIG7Qtcprwg_hMwsjgCGDLC5BF1T2V7DANTYr5g/formResponse" method="POST" class="contact__form grid">
             <div class="contact__inputs grid">
                 <div class="contact__content">
-                    <label for="" class="contact__label">Name</label>
-                    <input type="text" class="contact__input">
+                    <label for="" class="contact__label">First Name</label>
+                    <input type="text" class="contact__input" name="entry.1852383849" autocomplete="off" required>
                 </div>
                 <div class="contact__content">
-                    <label for="" class="contact__label">Email</label>
-                    <input type="email" class="contact__input">
+                    <label for="" class="contact__label">Last Name</label>
+                    <input type="text" class="contact__input" name="entry.546540787" autocomplete="off" required>
                 </div>
             </div>
 
             <div class="contact__content">
-                <label for="" class="contact__label">Object</label>
-                <input type="text" class="contact__input">
+                <label for="" class="contact__label">Email</label>
+                <input type="email" pattern="[^@\s]+@[^@\s]+\.[^@\s]+" class="contact__input" name="emailAddress" autocomplete="off" required >
             </div>
             <div class="contact__content">
-                <label for="" class="contact__label">Message</label>
-                <textarea name="" id="" cols="0" rows="7" class="contact__input"></textarea>
+                <label for="" class="contact__label">Brief description about you !</label>
+                <textarea name="entry.1908698987" id="" cols="0" rows="5" class="contact__input" autocomplete="off" required></textarea>
             </div>
             
-            <a href="mailto:qrhunt.gdsc@gmail.com" class="button button--flex">
-                Send Message
-                <i class="uil uil-message button__icon"></i>
-            </a>
+            <button type="submit" class="button button--flex">Register <i class="uil uil-message button__icon"></i></button>
 
         </form>
+        
     </div>
 </section>

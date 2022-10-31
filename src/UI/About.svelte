@@ -49,6 +49,7 @@
 <section class="about section" id="about">
     <h2 class="section__title">About This Event</h2>
     <span class="section__subtitle">QR Hunt Introduction</span>
+
     <div class="about__container container grid">
         <img src="https://scontent.falg7-1.fna.fbcdn.net/v/t1.15752-9/312752398_1614962935584928_4195992057672981650_n.png?stp=dst-png_p1080x2048&_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeEd5w5O1y8xCA5ArINPpUpsRWcRzFNKkPtFZxHMU0qQ--V_2VTg-lKJboGPLuL8ELCeu_EZgUoB_CdsLyU_Pw-7&_nc_ohc=vwrYe703vR8AX-kmaOP&_nc_ht=scontent.falg7-1.fna&oh=03_AdQVVZ5RoX5NHOS7TSnmXwRjP0AHLQaOQJ2_CQ7OdxNxLQ&oe=637BFF79" alt="logo" class="about__img">
         <div class="about__data">
@@ -70,14 +71,16 @@
                     <span class="about__info-title">01</span>
                     <span class="about__info-name">Mini Game</span>
                 </div>
+                
             </div>
             
             <div class="about__buttons">
                 <!-- svelte-ignore security-anchor-rel-noreferrer -->
-                <a href="https://docs.google.com/document/d/1q7cMsZpVXP9vuVG6MPM7swNOKFmEmUo57WpaVF_APgQ" target="_blank" class="button button--flex">
+                <a href="https://docs.google.com/document/d/1OJtmTMwlLOiIZGcAjHDRpL-tlwj9m7dZPw2abRoE4RM/edit" target="_blank" class="button button--flex">
                     Full Description<i class="uil uil-download-alt button__icon"></i>
                 </a>
             </div>
+
         </div>
     </div>
 </section>

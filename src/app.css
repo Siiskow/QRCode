@@ -70,13 +70,9 @@
     }
 }
 
-/*========== Variables Dark theme ==========*/
 
 
-/*========== Button Dark/Light ==========*/
-
-
-/*==================== BASE ====================*/
+/*==================== CSS BASIC ====================*/
 * {
   box-sizing: border-box;
   padding: 0;
@@ -113,7 +109,7 @@ img {
   height: auto;
 }
 
-/*==================== REUSABLE CSS CLASSES ====================*/
+/*==================== CSS RE-UTILISABLE ====================*/
 .section {
   padding: 2rem 0 4rem;
 }
@@ -276,13 +272,13 @@ body.dark-theme{
   .about__buttons{
     justify-content: initial;
   }
-  .qualification__tabs{
+  .agenda__tabs{
     justify-content: center;
   }
-  .qualification__button{
+  .agenda__button{
     margin: 0 var(--mb-1);
   }
-  .qualification__sections{
+  .agenda__sections{
     grid-template-columns: .5fr;
   }
 } 
@@ -303,66 +299,3 @@ body.dark-theme{
     grid-template-columns: repeat(2,1fr);
   }
 } 
-
-/* show menu */
-
-
-/* Active link */
-
-
-/* Change background header */
-
-
-/*==================== HOME ====================*/
-
-
-/*==================== BUTTONS ====================*/
-
-
-/*==================== ABOUT ====================*/
-
-
-/*==================== SKILLS ====================*/
-
-
-/*==================== QUALIFICATION ====================*/
-
-
-/*==================== SERVICES ====================*/
-
-
-/* Active Modal */
-
-
-/*==================== PORTFOLIO ====================*/
-
-
-/*==================== PROJECT IN MIND ====================*/
-
-
-/*==================== TESTIMONIAL ====================*/
-
-
-/*==================== CONTACT ME ====================*/
-
-
-/*==================== FOOTER ====================*/
-
-
-/*========== SCROLL UP ==========*/
-
-
-/* Show scroll */
-
-
-/*========== SCROLL BAR ==========*/
-
-
-/*==================== MEDIA QUERIES ====================*/
-/* For small devices */
-
-
-/* For medium devices */
-
-
-/* For large devices */
