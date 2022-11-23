@@ -51,7 +51,7 @@
     <span class="section__subtitle">QR Hunt Introduction</span>
 
     <div class="about__container container grid">
-        <img src="https://scontent.falg7-1.fna.fbcdn.net/v/t1.15752-9/312752398_1614962935584928_4195992057672981650_n.png?stp=dst-png_p1080x2048&_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeEd5w5O1y8xCA5ArINPpUpsRWcRzFNKkPtFZxHMU0qQ--V_2VTg-lKJboGPLuL8ELCeu_EZgUoB_CdsLyU_Pw-7&_nc_ohc=vwrYe703vR8AX-kmaOP&_nc_ht=scontent.falg7-1.fna&oh=03_AdQVVZ5RoX5NHOS7TSnmXwRjP0AHLQaOQJ2_CQ7OdxNxLQ&oe=637BFF79" alt="logo" class="about__img">
+        <img src="https://scontent.falg6-2.fna.fbcdn.net/v/t1.15752-9/312752398_1614962935584928_4195992057672981650_n.png?stp=dst-png_p1080x2048&_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeEd5w5O1y8xCA5ArINPpUpsRWcRzFNKkPtFZxHMU0qQ--V_2VTg-lKJboGPLuL8ELCeu_EZgUoB_CdsLyU_Pw-7&_nc_ohc=NgPd4I5-27YAX8JxfQC&_nc_ht=scontent.falg6-2.fna&oh=03_AdTobqRDOy7LcJvFP7ChN4iUq-EThmWNMln-oqteOT9SUQ&oe=63A5BEF9" alt="logo" class="about__img">
         <div class="about__data">
             <p class="about__description">
                 The idea of QR Hunt is presenting to participants a roadmap for the development of applications based on "QR" technology while relying on our workshops and entertainment for a better understanding of this subject.
