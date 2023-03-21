@@ -110,7 +110,7 @@
                             129.362C2.45775 97.8511 -7.48481 59.1033 6.67581 34.5279C20.9871 10.1032 59.7028 
                             -0.149132 97.9666 0.00163737C136.23 0.303176 174.193 10.857 190.312 36.4879Z"/>
 
-                            <image class="home__blob-img" x="12" y="18" xlink:href="https://scontent.falg7-2.fna.fbcdn.net/v/t1.15752-9/305648106_651743913117709_561151155825561189_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeF0iBHJ1dmQfM4K_xusGClQpC1Ozw1EqeCkLU7PDUSp4K9KPr3Z2xTzUQ25iwLgDrwvmMUhwSfR3zy0Wzu6mivo&_nc_ohc=ZJcrRLuPB3AAX8b44jr&tn=OCWPQutWj4SBmJ1g&_nc_ht=scontent.falg7-2.fna&oh=03_AdTR4lYhYx_c4PAGttI_Zsp8K9W88VX-nwV-_IOVp7Blwg&oe=63A84732"/>
+                            <image class="home__blob-img" x="12" y="18" xlink:href="https://scontent.falg7-2.fna.fbcdn.net/v/t1.15752-9/305648106_651743913117709_561151155825561189_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeF0iBHJ1dmQfM4K_xusGClQpC1Ozw1EqeCkLU7PDUSp4K9KPr3Z2xTzUQ25iwLgDrwvmMUhwSfR3zy0Wzu6mivo&_nc_ohc=7aVzpXrgJF4AX-JKx8G&_nc_ht=scontent.falg7-2.fna&oh=03_AdSUcyan1cIvKGNvdH97-Z8ncGNEBH0Q-ApBru5L4nERcg&oe=64416D72"/>
                         </g>
                     </svg>
                 </div>
